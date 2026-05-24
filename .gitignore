@@ -1,0 +1,4 @@
+.env
+/venv
+requirements.txt
+app_groq_Ai_key.py

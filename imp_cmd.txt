@@ -1,0 +1,9 @@
+echo "# Ai_Agent_resume_Screening_App_Langchain" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ShreyaasDEWorld/Ai_Agent_resume_Screening_App_Langchain.git
+git push -u origin main
+
+streamlit run app.py    
